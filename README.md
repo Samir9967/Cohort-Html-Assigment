@@ -34,4 +34,4 @@ This project demonstrates correct usage of semantic tags, structured content, an
 
 1. **Clone or Download the Project**
    ```bash
-  
+  git@github.com:Samir9967/Cohort-Html-Assigment.git
