@@ -29,9 +29,8 @@ This project demonstrates correct usage of semantic tags, structured content, an
 ## 📂 Project Structure
 
 ---
-
 ## ⚙️ Setup Instructions
 
-1. **Clone or Download the Project**
+1. **Clone the Repository**
    ```bash
-gh repo clone Samir9967/Cohort-Html-Assigment
+   gh repo clone Samir9967/Cohort-Html-Assigment
